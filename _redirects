@@ -1,0 +1,6 @@
+# Generated from atls-weather-dashboard/config/deployments.json
+# Shared retirement redirects for retired dashboard hostnames.
+http://sunday.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
+
+https://sunday.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
+
