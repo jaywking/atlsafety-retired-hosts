@@ -1,10 +1,12 @@
 # Generated from atls-weather-dashboard/config/deployments.json
 # Shared retirement redirects for retired dashboard hostnames.
 
+http://bws-geasy.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
 http://bws-rowley.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
 http://cbs.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
 http://sunday.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
 
+https://bws-geasy.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
 https://bws-rowley.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
 https://cbs.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
 https://sunday.abovethelinesafety.com/* https://www.abovethelinesafety.com/404 301!
